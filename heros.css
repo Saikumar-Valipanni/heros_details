@@ -1,0 +1,22 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    
+}
+body{
+    border: 10px solid rgb(50, 26, 117);
+}
+h1,h2{
+    color: rgb(8, 81, 83);
+
+}
+img{
+    padding: 10px 0 10px 500px;
+    width: 400px;
+    height: 400px;
+}
+.about{
+    /* background-color: aqua; */
+    color: rgb(93, 41, 41);
+    font-size: 25px;
+}

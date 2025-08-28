@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+  font-size: 30px;
+}
+li {
+  margin: 30px;
+  background-color: blueviolet;
+  /* display: inline-block; */
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  font-style: oblique;
+  padding: 50px;
+  color: rgb(175, 177, 66);
+}
+a:hover {
+  color: rgb(191, 17, 17);
+  
+}
+
